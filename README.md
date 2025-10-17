@@ -112,9 +112,9 @@ git push --set-upstream origin update-events
 
 **Create PR for Jaime's branch**
 
-![create pr](./images/08.create-pr.png)
+![create pr](./images/09.create-pr.png)
 Merge PR
-![merge pr](./images/09.merge-pr.png)
+![merge pr](./images/10.merge-pr.png)
 
 After merging, update your local `main`:
 
